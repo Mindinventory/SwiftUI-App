@@ -1,6 +1,9 @@
 # SwiftUI-Sample-App
 This swiftUI Demo is very simple &amp; easy to understand. This swiftUI demo includes On-boarding screens, login screen, forgot password screen, sign up screen, home &amp; logout.
 
+### MIFieldValidator
+![image](/Media/SwiftUI-Sample-App.mp4)
+
 # Description  
  
  In the onboard view, we used the page control with view controller and also put the next button to jump the LoginUI.
