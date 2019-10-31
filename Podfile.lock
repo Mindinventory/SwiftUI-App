@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.1)
+  - Navajo-Swift (2.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Navajo-Swift
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Navajo-Swift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  Navajo-Swift: 57b93e73efbfbf452433efbff04402de56beff51
+
+PODFILE CHECKSUM: 9f292b1ecdd42fdfcf067ceaa892e13832228435
+
+COCOAPODS: 1.8.1
