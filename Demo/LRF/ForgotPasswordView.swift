@@ -27,18 +27,6 @@ struct ForgotPasswordView: View {
             ScrollView {
                 
                 VStack {
-                   
-//                    Button(action: {
-//                            self.presentationMode.wrappedValue.dismiss()
-//
-//                    }) {
-//                        Text(" X ")
-//                            .font(.headline)
-//                            .foregroundColor(.black)
-//                            .padding()
-//                            .frame(width: 30, height: 30, alignment: .trailing)
-//                            .clipped()
-//                    }
                     
                     Spacer(minLength: 80)
                     

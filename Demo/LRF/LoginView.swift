@@ -89,7 +89,7 @@ struct LoginView: View {
                             self.showForgotPassword = true
                         }) {
                             Text("Forgot Passowrd?")
-                                .foregroundColor(.black)
+                                .foregroundColor(Color("TextColor"))
                                 .font(.system(size: (UIScreen.main.bounds.width * 15) / 414, weight: .bold, design: .default))
                             
                         }.sheet(isPresented: self.$showForgotPassword) {
@@ -127,7 +127,7 @@ struct LoginView: View {
                         self.showSignup = true
                     }) {
                         Text("New User? Create an account")
-                            .foregroundColor(.black)
+                            .foregroundColor(Color("TextColor"))
                             .font(.system(size: (UIScreen.main.bounds.width * 15) / 414, weight: .bold, design: .default))
                         
                     }.sheet(isPresented: self.$showSignup) {

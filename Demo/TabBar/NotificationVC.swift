@@ -10,7 +10,7 @@ import SwiftUI
 
 struct NotificationVC: View {
     var body: some View {
-        Text("NotificationVC")
+        Text("Bird Details")
     }
 }
 

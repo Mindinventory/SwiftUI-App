@@ -26,10 +26,13 @@ struct ProductListCollVCell: View {
                 Text("Color Birds")
                     .lineLimit(2)
                     .padding([.leading, .trailing], 5)
+                    .foregroundColor(Color("TextColor"))
+                    
                 
                 Spacer()
             }
-            .background(Color.white)
+//            .background(Color.white)
+            .border(Color.gray)
             .cornerRadius(10)
             .shadow(radius: 2)
         }

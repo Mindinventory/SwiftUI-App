@@ -34,25 +34,13 @@ struct TabbarVC: View {
                 Text("HOME")
             }.tag(0)
             
-//            CurrentOrderVC()
-//                .tabItem {
-//                    Image.init("ic_current_order", tintColor: .clear)
-//                    Text("CURRENT ORDER")
-//            }.tag(1)
-//
-//            NotificationVC()
-//                .tabItem {
-//                    Image.init("ic_notification", tintColor: .clear)
-//                    Text("NOTIFICATION")
-//            }.tag(2)
-            
             NavigationView {
                 ListView()
                 .navigationBarTitle("", displayMode: .inline)
             }
             .tabItem {
-                Image.init("ic_favourite_tabbar", tintColor: .clear)
-                Text("FAVOURITES")
+                Image.init("ic_controls", tintColor: .clear)
+                Text("CONTROLS")
             }.tag(1)
         }
         .accentColor(lightblueColor)
