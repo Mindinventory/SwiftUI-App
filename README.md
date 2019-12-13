@@ -1,5 +1,5 @@
 # SwiftUI-Sample-App
-This swiftUI Demo is very simple &amp; easy to understand. This swiftUI demo includes On-boarding screens, login screen, forgot password screen, sign up screen, home &amp; logout.You can read more from https://medium.com/mindful-engineering/getting-started-with-swiftui-c5b985a0211b
+This swiftUI Demo is very simple &amp; easy to understand. This swiftUI demo includes On-boarding screens, login screen, forgot password screen, sign up screen, home &amp; logout.You can read more from [Medium](https://medium.com/mindful-engineering/getting-started-with-swiftui-c5b985a0211b)
  
 ![video](/Media/SwiftUI-Sample-App.gif)
 
